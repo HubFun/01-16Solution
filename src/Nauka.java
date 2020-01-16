@@ -3,6 +3,8 @@ public class Nauka {
     System.out.println("Uczę");
     System.out.println("się");
     System.out.println("pogramowania");
+    System.out.println("i");
+    System.out.println("commitowania");
   }
 
 
