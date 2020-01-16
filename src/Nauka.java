@@ -5,7 +5,15 @@ public class Nauka {
     System.out.println("pogramowania");
     System.out.println("i");
     System.out.println("commitowania");
+
+    printInfo();
+
+
   }
 
+  static private  void printInfo (){
+    System.out.println("na kursie organizowanym przez JavaStart");
+
+  }
 
 }
