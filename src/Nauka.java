@@ -6,14 +6,6 @@ public class Nauka {
     System.out.println("i");
     System.out.println("commitowania"); //commitowanie jest fajne
 
-    printInfo();
-
-
-  }
-
-  static private  void printInfo (){
-    System.out.println("na kursie organizowanym przez JavaStart");
-
   }
 
 }
